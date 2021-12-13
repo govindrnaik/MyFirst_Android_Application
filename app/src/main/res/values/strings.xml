@@ -8,7 +8,7 @@
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">0</string>
-    <string name="random_heading">Random number between\nw 0 to %1$s is</string>
+    <string name="random_heading">Random number between\n 0 to %1$s is</string>
 
     <string name="toast_button_text">Toast</string>
     <string name="random_button_text">Random</string>
